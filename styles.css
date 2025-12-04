@@ -10,6 +10,13 @@ body {
     padding: 20px;
     font-family: Inter;
 }
+.wrapper{   
+    width: 100%;
+    max-width: 350px;
+    margin: 0 auto;
+    padding: 1.5rem;
+    box-sizing: border-box;
+}
 .container {
     background-color: hsl(0, 0%, 12%);
     height: auto;
